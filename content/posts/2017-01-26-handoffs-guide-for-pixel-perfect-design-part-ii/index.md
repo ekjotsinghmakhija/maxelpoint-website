@@ -1,5 +1,5 @@
 ---
-title: 'Handoffs Guide for Pixel Perfect Design. Part II.'
+title: 'Handoffs Guide for Maxel Perfect Design. Part II.'
 summary: The further conversation on matters of pixel-perfect design - grid, responsive design, animations.
 author: Alexey Tretyakov
 cover: cover.jpg

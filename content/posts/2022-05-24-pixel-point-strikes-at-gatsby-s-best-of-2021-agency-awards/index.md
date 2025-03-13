@@ -1,5 +1,5 @@
 ---
-title: The Pixel Point strikes twice at Gatsby’s Best of 2021 Agency Awards
+title: The Maxel Point strikes twice at Gatsby’s Best of 2021 Agency Awards
 summary: This year, at the beginning of March, they held GatsbyConf 2022, featuring Gatsby's Best of 2021 Agency Awards there. To our surprise, we took place among the finalists of the Best Site Design and Agency of the Year categories.
 author: Kirill Bolotsky
 cover: cover.jpg

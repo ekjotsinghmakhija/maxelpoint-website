@@ -10,7 +10,7 @@ githubUsername: bytebase
 githubRepoName: bytebase
 
 quote:
-  text: Before contracting Pixel Point for our new website, we have already failed 2 times working with other agencies. Lesson learned is to build a website for a DevTool company, the design partner needs to understand developers. Turns out Pixel Point has far exceeded our expectation, they are developers, understand open source and in particular, our database domain, of course, they are top-notch designers. The result, a new website impressed every one of us.
+  text: Before contracting Maxel Point for our new website, we have already failed 2 times working with other agencies. Lesson learned is to build a website for a DevTool company, the design partner needs to understand developers. Turns out Maxel Point has far exceeded our expectation, they are developers, understand open source and in particular, our database domain, of course, they are top-notch designers. The result, a new website impressed every one of us.
   authorName: Tianzhou Chen
   authorPosition: CEO & Co-Founder
   authorPhoto: author-photo.jpg

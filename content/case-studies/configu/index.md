@@ -8,7 +8,7 @@ description: Configuration management as a service
 websiteUrl: https://configu.com/
 
 quote:
-  text: As a DevTool company, we were looking for a design company that understands developers and can create a brand that would captivate their attention. Working with Pixel Point was a pleasure from the very beginning. They have high standards and know how to deliver quality products quickly.
+  text: As a DevTool company, we were looking for a design company that understands developers and can create a brand that would captivate their attention. Working with Maxel Point was a pleasure from the very beginning. They have high standards and know how to deliver quality products quickly.
   authorName: Peleg Porat
   authorPosition: CEO & Co-Founder
   authorPhoto: author-photo.jpg

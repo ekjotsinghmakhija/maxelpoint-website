@@ -8,7 +8,7 @@ description: Top observability solutions for modern IT environments
 websiteUrl: https://bindplane.com/
 
 quote:
-  text: Such a pleasure working with Alex and the entire Pixel Point team, they did an absolutely incredible job!
+  text: Such a pleasure working with Alex and the entire Maxel Point team, they did an absolutely incredible job!
   authorName: Ryan Goins
   authorPosition: Product Manager
   authorPhoto: author-photo.jpg

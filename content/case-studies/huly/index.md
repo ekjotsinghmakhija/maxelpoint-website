@@ -9,7 +9,7 @@ websiteUrl: https://huly.io/
 githubUsername: hcengineering
 githubRepoName: platform
 # quote:
-#   text: The Gitness keynote was a resounding success, and the website turned out to be absolutely incredible. Our CEO, along with the entire team, is thoroughly impressed with the quality of work delivered. Many thanks to the Pixel Point team for their enormous efforts! We look forward to further collaboration!
+#   text: The Gitness keynote was a resounding success, and the website turned out to be absolutely incredible. Our CEO, along with the entire team, is thoroughly impressed with the quality of work delivered. Many thanks to the Maxel Point team for their enormous efforts! We look forward to further collaboration!
 #   authorName: Brad Rydzewski
 #   authorPosition: VP of Product
 #   authorPhoto: author-photo.jpg

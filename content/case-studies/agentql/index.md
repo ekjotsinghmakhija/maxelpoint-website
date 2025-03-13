@@ -8,7 +8,7 @@ description: AI-powered tool for painless data extraction and web automation
 websiteUrl: https://www.agentql.com/
 
 quote:
-  text: The level of UI craft and polish Pixel Point team delivered was outstanding, striking the perfect balance between a sleek, modern design and a deep understanding of what resonates with the developer community. Their expertise truly helped us create a landing page that not only looks great but also connects with our audience.
+  text: The level of UI craft and polish Maxel Point team delivered was outstanding, striking the perfect balance between a sleek, modern design and a deep understanding of what resonates with the developer community. Their expertise truly helped us create a landing page that not only looks great but also connects with our audience.
   authorName: Pasha Dudka
   authorPosition: Head of Engineering
   authorPhoto: author-photo.jpg

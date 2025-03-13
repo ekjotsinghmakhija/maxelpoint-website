@@ -1,6 +1,6 @@
 ---
 title: 'Probably, your first useful Touch Bar app'
-summary: Stay on mute when you want with Pixel Point’s Touch Bar app - Mute Me.
+summary: Stay on mute when you want with Maxel Point’s Touch Bar app - Mute Me.
 author: Alexey Tretyakov
 cover: cover.jpg
 category: Development

@@ -10,7 +10,7 @@ The number of dApps and tokens on the market is rapidly growing, with annual inc
 
 For some applications and online services, it is crucial to know the current state of a user’s wallet or any transactions resulting from a user’s actions. There are a lot of web services that allow developers to get details about wallets and transactions via JSON API, such as BlockCypher. However, there were few, if any, places to see all the currencies and tokens needed in one place.
 
-In this article, I will shed light on how do we deal with this at Pixel Point.
+In this article, I will shed light on how do we deal with this at Maxel Point.
 
 ## Different projects — same tasks
 

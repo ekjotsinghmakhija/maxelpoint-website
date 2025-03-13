@@ -8,7 +8,7 @@ category: Design
 
 Motion design industry has a lot of great tools, and it’s rather easy nowadays to create stunning visual effects and animations. Most of that technological progress was driven by the movie industry and the needs of video makers creating new blockbusters or TV shows.
 
-I’ve been working in the design space for over 10 years and I have switched to motion design about five years ago. At Pixel Point, I help to bring creative motion design into the projects, and I must say that building animations for web was not as simple as doing it for video production.
+I’ve been working in the design space for over 10 years and I have switched to motion design about five years ago. At Maxel Point, I help to bring creative motion design into the projects, and I must say that building animations for web was not as simple as doing it for video production.
 
 When you think about motion design in web, there are several options you can go with:
 

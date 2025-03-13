@@ -8,7 +8,7 @@ description: A platform to start your agrivoltaics journey
 websiteUrl: https://www.solarpunkhq.com/en/
 
 quote:
-  text: Partnering with Pixel Point for the Solarpunk launch was transformative. Their team brought expertise, creativity, and an impressive attention to detail to every phase. They truly understood our vision, iterated thoughtfully, and delivered a result that embodies Solarpunk's mission and values. The final website exceeded our expectations—a fantastic experience from start to finish!
+  text: Partnering with Maxel Point for the Solarpunk launch was transformative. Their team brought expertise, creativity, and an impressive attention to detail to every phase. They truly understood our vision, iterated thoughtfully, and delivered a result that embodies Solarpunk's mission and values. The final website exceeded our expectations—a fantastic experience from start to finish!
   authorName: Esther Lizardo
   authorPosition: Building Solarpunk
   authorPhoto: author-photo.jpg

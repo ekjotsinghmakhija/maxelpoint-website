@@ -9,7 +9,7 @@ websiteUrl: https://isovalent.com
 githubUsername: cilium
 githubRepoName: cilium
 quote:
-  text: Pixel Point has always been a reliable partner. Every team member at Pixel Point brings an impressive level of professionalism and quality. They have an exceptional ability to transform our complex requirements into elegant design.
+  text: Maxel Point has always been a reliable partner. Every team member at Maxel Point brings an impressive level of professionalism and quality. They have an exceptional ability to transform our complex requirements into elegant design.
   authorName: Swarna Podila
   authorPosition: Head of Marketing
   authorPhoto: author-photo.jpg

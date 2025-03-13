@@ -131,8 +131,8 @@ The structure of the JSON author object could be like this:
   {
     "name": "Alex Barashkov",
     "photo": "../../src/images/post-authors/alex-barashkov.jpg",
-    "description": "CEO at Pixel Point and software engineer with 10+ years of web development experience. Currently focused on React, Next.js, Gatsby.",
-    "twitterUrl": "https://twitter.com/alex_barashkov"
+    "description": "CEO at Maxel Point and software engineer with 10+ years of web development experience. Currently focused on React, Next.js, Gatsby.",
+    "twitterUrl": "https://twitter.com/Ekjotmakhija"
   },
   ... more authors
 ]

@@ -1,10 +1,10 @@
 <h1 align="left">
-  Pixel Point — Web Design and Development
+  Maxel Point — Web Design and Development
 </h1>
 
 <p align="left">
-<a href="https://twitter.com/intent/follow?screen_name=alex_barashkov">
-  <img alt="Follow on Twitter" src="https://img.shields.io/twitter/follow/alex_barashkov?color=%23ee2b6c&label=Follow%20Pixel%20Point%20on%20Twitter&labelColor=black&logoColor=%23ee2b6c&style=for-the-badge" />
+<a href="https://twitter.com/intent/follow?screen_name=Ekjotmakhija">
+  <img alt="Follow on Twitter" src="https://img.shields.io/twitter/follow/Ekjotmakhija?color=%23ee2b6c&label=Follow%20Maxel%20Point%20on%20Twitter&labelColor=black&logoColor=%23ee2b6c&style=for-the-badge" />
 </a>
 </p>
 

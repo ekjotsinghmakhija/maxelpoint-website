@@ -1,5 +1,5 @@
 ---
-title: 'Handoffs Guide for Pixel Perfect Design. Part III.'
+title: 'Handoffs Guide for Maxel Perfect Design. Part III.'
 author: Alex Barashkov
 summary: 'The final part of the talk on the handoff process of pixel-perfect design: UI kits, export, component states, typography.'
 cover: cover.jpg
