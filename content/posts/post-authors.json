@@ -1,0 +1,54 @@
+[
+  {
+    "name": "Alex Barashkov",
+    "photo": "../../src/images/post-authors/alex-barashkov.jpg",
+    "description": "CEO at Pixel Point and software engineer with 10+ years of web development experience. Currently focused on React, Next.js, Gatsby.",
+    "twitterUrl": "https://twitter.com/alex_barashkov"
+  },
+  {
+    "name": "Kirill Bolotsky",
+    "photo": "../../src/images/post-authors/kirill-bolotsky.jpg",
+    "description": "COO at Pixel Point. Also busy with front-end, devrel and tech copywriting."
+  },
+  {
+    "name": "Vlad Kamelsky",
+    "photo": "../../src/images/post-authors/vlad-kamelsky.jpg",
+    "description": "Co-founder and Head of Design at Pixel Point."
+  },
+  {
+    "name": "Alexey Kuznetsov",
+    "photo": "../../src/images/post-authors/alexey-kuznetsov.jpg",
+    "description": "Friend of Pixel Point and senior software engineer experienced in Ruby and Javascript development."
+  },
+  {
+    "name": "Dmitry Semenovsky",
+    "photo": "../../src/images/post-authors/dmitry-semenovsky.jpg",
+    "description": "Friend of Pixel Point and innovator revolutionizing digital signatures and document authentication."
+  },
+  {
+    "name": "Ekaterina Martynko",
+    "photo": "../../src/images/post-authors/ekaterina-martynko.jpg",
+    "description": "An aspiring front-end developer at Pixel Point. Writes articles to answer her own questions.",
+    "twitterUrl": "https://twitter.com/k8isdead"
+  },
+  {
+    "name": "Roman Evgrafov",
+    "photo": "../../src/images/post-authors/roman-evgrafov.jpg",
+    "description": "An ambitious motion designer and a friend of Pixel Point."
+  },
+  {
+    "name": "Alexey Tretyakov",
+    "photo": "../../src/images/post-authors/alexey-tretyakov.jpg",
+    "description": "An ambitious designer at Pixel Point."
+  },
+  {
+    "name": "Yaroslav Demidov",
+    "photo": "../../src/images/post-authors/yaroslav-demidov.jpg",
+    "description": "Motion Designer at Pixel Point"
+  },
+  {
+    "name": "Alexey Shchipachev",
+    "photo": "../../src/images/post-authors/alexey-shchipachev.jpg",
+    "description": "Motion Designer at Pixel Point"
+  }
+]

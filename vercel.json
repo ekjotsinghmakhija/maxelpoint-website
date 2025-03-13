@@ -1,0 +1,52 @@
+{
+  "redirects": [
+    {
+      "source": "/work-inquiry/",
+      "destination": "https://surveys.maxelpoint.io/work-with-us",
+      "permanent": true
+    },
+    {
+      "source": "/youtube/",
+      "destination": "https://www.youtube.com/@maxelpoint-io?sub_confirmation=1",
+      "permanent": true
+    }
+  ],
+  "rewrites": [
+    {
+      "source": "/links/",
+      "destination": "https://maxel-point-next.vercel.app/links"
+    },
+    {
+      "source": "/learn/",
+      "destination": "https://maxel-point-next.vercel.app/learn"
+    },
+    {
+      "source": "/learn/:path*/",
+      "destination": "https://maxel-point-next.vercel.app/learn/:path*"
+    },
+    {
+      "source": "/sign-up/",
+      "destination": "https://maxel-point-next.vercel.app/sign-up"
+    },
+    {
+      "source": "/_next/:path*",
+      "destination": "https://maxel-point-next.vercel.app/_next/:path*"
+    },
+    {
+      "source": "/_next/:path*/",
+      "destination": "https://maxel-point-next.vercel.app/_next/:path*"
+    },
+    {
+      "source": "/api/:path*",
+      "destination": "https://maxel-point-next.vercel.app/api/:path*"
+    },
+    {
+      "source": "/api/:path*/",
+      "destination": "https://maxel-point-next.vercel.app/api/:path*"
+    },
+    {
+      "source": "/favicon.ico",
+      "destination": "/favicon-32x32.png"
+    }
+  ]
+}

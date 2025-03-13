@@ -1,0 +1,189 @@
+@layer components {
+  .content {
+    @apply text-lg sm:text-base;
+
+    > *:first-child {
+      @apply !mt-0;
+    }
+
+    > *:last-child {
+      @apply !mb-0;
+    }
+
+    h2,
+    h3,
+    h4,
+    h5,
+    h6 {
+      @apply font-semibold leading-snug;
+    }
+
+    h2 {
+      @apply mb-5 mt-10 text-2xl sm:mb-4 sm:mt-8 sm:text-xl;
+    }
+
+    h3 {
+      @apply mb-5 mt-8 text-xl sm:mb-4 sm:mt-6 sm:text-lg;
+    }
+
+    ul,
+    ol,
+    p,
+    > video,
+    .embedVideo-container {
+      @apply my-5 sm:my-4;
+    }
+
+    strong {
+      @apply font-normal;
+    }
+
+    a {
+      @apply relative font-normal text-red transition-colors duration-200 hover:text-blue;
+    }
+
+    figure,
+    > .gatsby-resp-image-wrapper,
+    span.gatsby-resp-image-wrapper,
+    > img,
+    .gatsby-highlight {
+      @apply my-10 sm:my-8;
+    }
+
+    .gatsby-resp-image-figure figcaption {
+      @apply mt-2 text-center text-sm font-normal text-gray-7;
+    }
+
+    ul,
+    ol {
+      @apply space-y-2 pl-14 md:space-y-2.5 md:pl-8;
+    }
+
+    ul {
+      > li {
+        @apply relative;
+
+        &::before {
+          @apply absolute -left-2.5 top-2.5 h-1.5 w-1.5 -translate-x-full rounded-full bg-gray-7 content-[''] dark:bg-gray-6;
+        }
+      }
+    }
+
+    ol {
+      counter-reset: custom-counter;
+
+      > li {
+        @apply relative;
+        counter-increment: custom-counter;
+
+        &::before {
+          @apply absolute -left-2.5 top-0 -translate-x-full font-normal text-gray-7 dark:text-gray-6;
+          content: counter(custom-counter) '. ' !important;
+        }
+      }
+    }
+
+    .table-wrapper {
+      @apply md:overflow-x-auto;
+    }
+
+    table {
+      @apply w-full border-hidden text-base md:min-w-[500px];
+
+      th {
+        @apply border-y border-gray-4 py-2 text-left font-medium dark:border-gray-8;
+      }
+
+      td {
+        @apply border-y border-gray-4 py-2 dark:border-gray-8;
+      }
+    }
+
+    code:not(.ch-code-scroll-parent) {
+      @apply break-words rounded-sm bg-gray-3 px-1.5 py-0.5 text-base text-black dark:bg-gray-9 dark:text-white md:px-1 md:py-px md:text-sm;
+    }
+
+    .embedVideo-container {
+      /* 56.25% is 16:9 ratio
+      this code makes an iframe responsive 
+      https://stackoverflow.com/a/29784327 */
+      @apply relative h-0 pb-[56.25%];
+
+      iframe {
+        @apply absolute left-0 top-0 h-full w-full;
+      }
+    }
+
+    iframe,
+    video {
+      @apply mx-auto max-w-full;
+    }
+
+    video {
+      /* Extra hack to remove grey border artifact on Safari */
+      /* https://stackoverflow.com/questions/52508598/html5-video-element-on-iphone-has-border */
+      -webkit-mask-image: -webkit-radial-gradient(white, black);
+    }
+
+    .twitter-tweet.twitter-tweet-rendered {
+      @apply mx-auto;
+    }
+
+    .ch-codeblock,
+    .ch-codegroup,
+    .ch-preview {
+      @apply shadow-none;
+    }
+
+    .ch-codegroup {
+      @apply outline outline-[#ebebeb] dark:outline-[#2e2e2e];
+
+      .ch-frame-title-bar {
+        @apply outline outline-[#ebebeb] dark:outline-[#2e2e2e] rounded-t-md border-b border-[#ebebeb] dark:border-[#2e2e2e];
+
+        div[data-active='false'] {
+          @apply bg-[#fafafa] dark:bg-[#2e2e2e];
+        }
+      }
+
+      .ch-code-scroll-content {
+        @apply rounded-md;
+      }
+    }
+
+    .ch-codeblock {
+      @apply outline outline-[#ebebeb] dark:outline-[#2e2e2e];
+
+      .ch-code-scroll-content {
+        @apply rounded-md;
+      }
+    }
+
+    .ch-code-scroll-parent {
+      .ch-code-scroll-content {
+        @apply text-sm;
+
+        > div {
+          @apply !translate-y-4;
+        }
+
+        span {
+          @apply leading-normal;
+        }
+      }
+    }
+
+    .ch-code-scroll-parent ::selection {
+      background: highlight;
+    }
+
+    .ch-code-button,
+    .ch-editor-button {
+      @apply text-[#666666] dark:text-[#a1a1a1];
+    }
+
+    .ch-code-line-number {
+      @apply text-[#a8a8a8] dark:text-[#878787];
+    }
+  }
+}
